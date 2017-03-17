@@ -1,4 +1,4 @@
-# My Sublime Text 3 Plugins, Settings, etc
+# My Sublime Text 3 Plugins, Settings, etc.
 This is a collection of Sublime Text Plugins and settings that I use.
 
 ## Package Control
