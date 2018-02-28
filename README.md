@@ -1,5 +1,5 @@
 # My Visual Studio Code Settings
-This are the settings and key bindings I use on Visual Studio Code
+These are the settings and key bindings I use on Visual Studio Code
 
 ## Extensions
 - Code Runner – https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner
