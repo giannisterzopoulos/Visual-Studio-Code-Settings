@@ -1,6 +1,0 @@
-{
-    "cmd": ["start", "cmd", "/k", "C:/Users/Giannis/Anaconda3/envs/music-finder/python.exe", "$file"],
-    "selector": "source.python",
-    "shell": true,
-    "working_dir": "$file_dir"
-}
