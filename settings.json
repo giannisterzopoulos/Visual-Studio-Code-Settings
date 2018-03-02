@@ -5,6 +5,7 @@
     "editor.fontFamily": "Consolas, 'Courier New', monospace",
     "editor.fontSize": 14,
     "editor.occurrencesHighlight": false,
+    "workbench.list.openMode": "doubleClick",
     "explorer.openEditors.visible": 0,
     "python.linting.flake8Enabled": true,
     "python.formatting.provider": "autopep8",
